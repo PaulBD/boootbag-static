@@ -94,6 +94,14 @@ export default {
     }
   }
 
+  .navbar-burger {
+    color: #ffffff;
+  }
+
+  .navbar-menu {
+    background-color: #000000;
+  }
+
   .navbar-menu a {
     color: #fff;
   }
